@@ -1,6 +1,3 @@
-import re
-
-
 def solve1():
     with open('in.txt') as f:
         mat = []
